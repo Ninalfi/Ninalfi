@@ -16,8 +16,6 @@
 
 ---
 
-<h1 align="center">Hey 👋What's Up?</h1>
-
 ###
 
 <div align="center">
@@ -78,6 +76,20 @@
 - Modern web development  
 
 ---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ninalfi&label=Profile%20views&color=0e75b6&style=flat" alt="Ninalfi" />
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Ninadfi/Ninadfi/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+
 
 
 
