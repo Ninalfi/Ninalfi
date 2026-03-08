@@ -56,6 +56,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
 </div>
 
+---
+
 ### 🌐Connect with me
 
 <div align="center">
@@ -67,11 +69,6 @@
 </div>
 
 ---
-## 💻 Hacker Terminal
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=700&color=00FF41&background=000000&center=true&vCenter=true&width=900&lines=%24+booting+profile...;%24+loading+developer+mode...;%24+loading+cybersecurity+mode...;%24+status%3A+online;%24+welcome+to+Ninalfi's+GitHub" alt="Hacker terminal animation" />
-</p>
 
 
 ## 🧠 Currently Learning
@@ -113,6 +110,8 @@
   <img src="https://komarev.com/ghpvc/?username=Ninalfi&label=Profile%20views&color=0e75b6&style=flat" alt="Ninalfi" />
 </p>
 
+---
+
 ## 🐍 Contribution Snake
 
 <picture>
@@ -120,6 +119,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Ninalfi/Ninalfi/blob/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution snake" src="https://github.com/Ninalfi/Ninalfi/blob/output/github-contribution-grid-snake.svg" />
 </picture>
+
+---
 
 
 <p align="center">
