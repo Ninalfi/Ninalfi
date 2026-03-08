@@ -16,7 +16,7 @@
 
 ---
 
-###
+### ⚙️ Technologies & Tools
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
@@ -56,7 +56,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
 </div>
 
-###
+### 🌐Connect with me
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -66,7 +66,13 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
 </div>
 
-###
+---
+## 💻 Hacker Terminal
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=700&color=00FF41&background=000000&center=true&vCenter=true&width=900&lines=%24+booting+profile...;%24+loading+developer+mode...;%24+loading+cybersecurity+mode...;%24+status%3A+online;%24+welcome+to+Ninalfi's+GitHub" alt="Hacker terminal animation" />
+</p>
+
 
 ## 🧠 Currently Learning
 
@@ -74,6 +80,22 @@
 - Web security concepts  
 - Secure coding practices  
 - Modern web development  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ninalfi&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ninalfi&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ninalfi&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
@@ -98,6 +120,11 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Ninalfi/Ninalfi/blob/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution snake" src="https://github.com/Ninalfi/Ninalfi/blob/output/github-contribution-grid-snake.svg" />
 </picture>
+
+
+<p align="center">
+⭐️ From <a href="https://github.com/Ninalfi">Ninalfi</a>
+</p>
 
 
 
