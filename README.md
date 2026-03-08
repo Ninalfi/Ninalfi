@@ -77,6 +77,14 @@
 
 ---
 
+## 🔥 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ninalfi&theme=tokyo-night" alt="GitHub activity graph" />
+</p>
+
+---
+
 ## 👀 Profile Views
 
 <p align="center">
