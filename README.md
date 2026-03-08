@@ -1,4 +1,6 @@
-https://capsule-render.vercel.app/api?type=waving&height=300&text=Alfi%20Sharin%20Ninad&descAlignY=54&descSize=42&textBg=false&reversal=false&animation=twinkling&section=header&desc=Front-end%20Developer&descAlign=59&fontAlignY=29&fontColor=pink
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Alfi%20Sharin%20Ninad&descAlignY=54&descSize=42&textBg=false&reversal=false&animation=twinkling&section=header&desc=Front-end%20Developer&descAlign=59&fontAlignY=29&fontColor=pink" />
+</p>
 
 ---
 <h1 align="center">Hi 👋, I'm Alfi Sharin Ninad</h1>
