@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Alfi%20Sharin%20Ninad&fontAlignY=35&fontColor=ffffff&desc=Front-End%20Developer%20|%20Computer%20Science%20Student&descAlignY=55&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0D1117,100:1F6FEB&text=Alfi%20Sharin%20Ninad&fontColor=ffffff&fontSize=55&fontAlignY=35&desc=Software%20Developer%20|%20Cybersecurity%20Enthusiast&descAlignY=58&descSize=24&animation=fadeIn" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Alfi Sharin Ninad</h1>
