@@ -85,25 +85,6 @@
 - Security-Oriented Development
 
 ---
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ninalfi&show_icons=true&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ninalfi&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ninalfi&layout=compact&theme=tokyonight&hide_border=true" /> </p>
-
-## 📈 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ninalfi&theme=tokyo-night" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ninalfi&theme=tokyonight&no-frame=true&margin-w=15&row=1" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -120,6 +101,32 @@
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
+</p>
+
+---
+
+##📈 GitHub Statistics
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ninalfi&show_icons=true&theme=tokyonight&hide_border=true" />
+</p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ninalfi&theme=tokyonight&hide_border=true" /> </p> 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ninalfi&layout=compact&theme=tokyonight&hide_border=true" /> </p>
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ninalfi&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ninalfi&layout=compact&theme=tokyonight)
+
+## 📈 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ninalfi&theme=tokyo-night" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ninalfi&theme=tokyonight&no-frame=true&margin-w=15&row=1" />
 </p>
 
 ---
